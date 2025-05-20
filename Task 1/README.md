@@ -25,12 +25,12 @@ After training and testing, model performance is measured using:
 ## Visualization
 The model output includes a scatter plot comparing **Actual vs Predicted Prices**, giving a clear picture of how well the model is performing.
 
-## 🚀 How to Run
+## How to Run
 1. Download the dataset from Kaggle and place `train.csv` in this folder.
 2. Run the notebook in [Google Colab](https://colab.research.google.com/) or Jupyter.
 3. Review the output report and plots.
 
-## ✅ Tools & Libraries
+## Tools & Libraries
 - Python
 - Pandas
 - NumPy
