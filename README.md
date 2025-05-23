@@ -9,15 +9,15 @@ This repository contains the machine learning projects completed during my inter
 ### 🏠 Task 1: House Price Prediction
 - Built a regression model to predict house prices based on features like location, size, and condition.
 - Used Linear Regression, Ridge, Lasso, and Random Forest.
-- 📁 Folder: `Task1_House_Price_Prediction`
-- 📄 Report: `ML_Task_1.pdf`
+- 📁 Folder: `Task 1`
+- 📄 Report: `Task1_Report.md`
 
 ---
 
 ### 👥 Task 2: Customer Segmentation Using K-Means
 - Used unsupervised learning to group customers based on shopping behavior.
 - Applied K-Means clustering and Elbow Method for optimal `k`.
-- 📁 Folder: `Task2_Customer_Segmentation`
-- 📄 Report: `ML_Task_2.pdf`
+- 📁 Folder: `Task 2`
+- 📄 Report: `Task2_Report.md`
 
 
