@@ -26,12 +26,5 @@ This report summarizes the steps, results, plots, and findings of the Customer S
 - Each cluster represents a distinct behavioral segment.
 - Business interpretation provided for each group to aid marketing strategies.
 
-## 4. Live Demo / Notebook Access
-You can explore and run the project notebook here:
 
-📓 **Google Colab**: [Open Notebook](https://colab.research.google.com/drive/YOUR_NOTEBOOK_LINK_HERE)
-
-🗂️ **GitHub Repository**: [View Project](https://github.com/YOUR_USERNAME/Credora-Internship/tree/main/Task2_Customer_Segmentation)
-
-*Replace the above placeholders with actual links before submission.*
 
