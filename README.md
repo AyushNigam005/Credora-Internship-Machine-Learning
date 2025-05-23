@@ -4,7 +4,7 @@ This repository contains projects completed during my ML internship at **Credora
 
 ## 📁 Projects
 
-1. **[House Price Prediction](./Task1/README.md)**  
+1. **[House Price Prediction](./Task1)**  
    Built a regression model to predict house prices using real-world data.
 
 2. **[Customer Segmentation Using K-Means](./Task2/README.md)**  
